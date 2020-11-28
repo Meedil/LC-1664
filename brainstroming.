@@ -3,7 +3,7 @@ let's say the integer meant to be removed comes at the middle of an array with 5
 all the even indecies after the 3rd index will turn odd, and vice versa
 
 ## Code Outline 
-###attempt 1
+### attempt 1
 make an array of size 2
 index 0 will carry the even sum
 index 1 will carry the odd sum
